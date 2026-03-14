@@ -1,4 +1,3 @@
-10 lines (9 loc) · 426 Bytes
 export default function getSanFranciscoDescription() {
   const year = 2017;
   const budget = {
